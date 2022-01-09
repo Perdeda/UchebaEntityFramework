@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище БДModelContainer" CdmEntityContainer="БДEntities">
+    <EntitySetMapping Name="аккаунты">
+      <EntityTypeMapping TypeName="БДModel.аккаунты">
+        <MappingFragment StoreEntitySet="аккаунты">
+          <ScalarProperty Name="логин" ColumnName="логин" />
+          <ScalarProperty Name="пароль" ColumnName="пароль" />
+          <ScalarProperty Name="почта" ColumnName="почта" />
+          <ScalarProperty Name="id_пользователя" ColumnName="id пользователя" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

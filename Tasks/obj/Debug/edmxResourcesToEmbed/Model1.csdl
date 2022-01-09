@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="БДModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="аккаунты">
+    <Key>
+      <PropertyRef Name="id_пользователя" />
+    </Key>
+    <Property Name="логин" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="пароль" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="почта" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="id_пользователя" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityContainer Name="БДEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="аккаунты" EntityType="Self.аккаунты" />
+  </EntityContainer>
+</Schema>

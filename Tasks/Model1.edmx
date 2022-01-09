@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище БДModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "БД.dbo."Данные"" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="&quot;Данные&quot;">
+          <Property Name="log_" Type="varchar" MaxLength="40" />
+          <Property Name="pass" Type="varchar" MaxLength="40" />
+        </EntityType>-->
+        <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "БД.dbo.Admin" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="Admin">
+          <Property Name="Jobnumber" Type="char" MaxLength="40" />
+          <Property Name="Passwords" Type="char" MaxLength="40" />
+        </EntityType>-->
+        <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "БД.dbo.log_in" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="log_in">
+          <Property Name="logi" Type="char" MaxLength="20" />
+          <Property Name="pass" Type="char" MaxLength="20" />
+        </EntityType>-->
+        <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "БД.dbo.num" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+        <EntityType Name="аккаунты">
+          <Key>
+            <PropertyRef Name="id пользователя" />
+          </Key>
+          <Property Name="логин" Type="varchar" MaxLength="40" />
+          <Property Name="пароль" Type="varchar" MaxLength="40" />
+          <Property Name="почта" Type="varchar" MaxLength="40" />
+          <Property Name="id пользователя" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "БД.dbo.задачи" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="задачи">
+          <Property Name="статус задачи" Type="varchar" MaxLength="40" />
+          <Property Name="наименование задачи" Type="varchar" MaxLength="40" />
+          <Property Name="задача" Type="varchar" MaxLength="200" />
+          <Property Name="id пользователя" Type="int" />
+        </EntityType>-->
+        <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "БД.dbo.Ингридиенты" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="Ингридиенты">
+          <Property Name="ID ингридиента" Type="int" />
+          <Property Name="Название" Type="char" MaxLength="50" />
+          <Property Name="Срок хранения" Type="date" />
+        </EntityType>-->
+        <!--Ошибки, обнаруженные при создании:
+ошибка 6004: Невозможно найти таблицу "БД.dbo.задачи", на которую ссылается связь.
+        <Association Name="FK__задачи__id польз__2F9A1060" />-->
+        <!--Ошибки, обнаруженные при создании:
+ошибка 6004: Невозможно найти таблицу "БД.dbo.Ингридиенты", на которую ссылается связь.
+        <Association Name="FK__Ингридиен__ID ин__2B0A656D" />-->
+        <EntityContainer Name="Хранилище БДModelContainer">
+          <EntitySet Name="аккаунты" EntityType="Self.аккаунты" Schema="dbo" store:Type="Tables" />
+          </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="БДModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="аккаунты">
+          <Key>
+            <PropertyRef Name="id_пользователя" />
+          </Key>
+          <Property Name="логин" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="пароль" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="почта" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="id_пользователя" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+        </EntityType>
+        <EntityContainer Name="БДEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="аккаунты" EntityType="Self.аккаунты" />
+          </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище БДModelContainer" CdmEntityContainer="БДEntities">
+          <EntitySetMapping Name="аккаунты">
+            <EntityTypeMapping TypeName="БДModel.аккаунты">
+              <MappingFragment StoreEntitySet="аккаунты">
+                <ScalarProperty Name="логин" ColumnName="логин" />
+                <ScalarProperty Name="пароль" ColumnName="пароль" />
+                <ScalarProperty Name="почта" ColumnName="почта" />
+                <ScalarProperty Name="id_пользователя" ColumnName="id пользователя" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

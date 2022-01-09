@@ -1,0 +1,102 @@
+C:\Users\MrPar\source\repos\Tasks\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+C:\Users\MrPar\source\repos\Tasks\Tasks\obj\Debug\Tasks.Form1.resources
+C:\Users\MrPar\source\repos\Tasks\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+C:\Users\MrPar\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.GenerateResource.cache
+C:\Users\MrPar\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\MrPar\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\MrPar\source\repos\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\MrPar\source\repos\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\MrPar\source\repos\Tasks\Tasks\obj\Debug\Tasks.pdb
+C:\Users\MrPar\source\repos\Tasks\Tasks\obj\Debug\Tasks.Form2.resources
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\bin\Debug\Tasks.exe.config
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\bin\Debug\Tasks.exe
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\bin\Debug\Tasks.pdb
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\obj\Debug\Tasks.Form1.resources
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\obj\Debug\Tasks.Form2.resources
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\obj\Debug\Tasks.csproj.GenerateResource.cache
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\obj\Debug\Tasks.exe
+\\iscsi\profiles\SCHerbakovAV\Desktop\Tasks\Tasks\obj\Debug\Tasks.pdb
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\bin\Debug\Tasks.exe.config
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\bin\Debug\Tasks.exe
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\bin\Debug\Tasks.pdb
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\bin\Debug\EntityFramework.dll
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.dll
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\bin\Debug\EntityFramework.xml
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.xml
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.Form1.resources
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.Form2.resources
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.csproj.GenerateResource.cache
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.exe
+\\iscsi\profiles\SCHerbakovAV\Desktop\Магазин\Tasks\obj\Debug\Tasks.pdb
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\bin\Debug\Tasks.exe
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\bin\Debug\Tasks.pdb
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\bin\Debug\EntityFramework.dll
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\bin\Debug\EntityFramework.xml
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\obj\Debug\Tasks.Form1.resources
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\obj\Debug\Tasks.Form2.resources
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\obj\Debug\Tasks.csproj.GenerateResource.cache
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\obj\Debug\Tasks.exe
+C:\Users\super\Desktop\Андрюха держи\Магазин\Tasks\obj\Debug\Tasks.pdb
+D:\Магазин\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+D:\Магазин\Tasks\obj\Debug\Tasks.Form1.resources
+D:\Магазин\Tasks\obj\Debug\Tasks.Form2.resources
+D:\Магазин\Tasks\obj\Debug\Tasks.Inspect.resources
+D:\Магазин\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+D:\Магазин\Tasks\obj\Debug\Tasks.csproj.GenerateResource.cache
+D:\Магазин\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+D:\Магазин\Tasks\obj\Debug\Tasks.exe
+D:\Магазин\Tasks\obj\Debug\Tasks.pdb
+D:\Магазин\Tasks\bin\Debug\Tasks.exe.config
+D:\Магазин\Tasks\bin\Debug\Tasks.exe
+D:\Магазин\Tasks\bin\Debug\Tasks.pdb
+D:\Магазин\Tasks\bin\Debug\EntityFramework.dll
+D:\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.dll
+D:\Магазин\Tasks\bin\Debug\EntityFramework.xml
+D:\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.xml
+D:\Магазин\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+E:\Магазин\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+E:\Магазин\Tasks\obj\Debug\Tasks.Form1.resources
+E:\Магазин\Tasks\obj\Debug\Tasks.Form2.resources
+E:\Магазин\Tasks\obj\Debug\Tasks.Inspect.resources
+E:\Магазин\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+E:\Магазин\Tasks\obj\Debug\Tasks.csproj.GenerateResource.cache
+E:\Магазин\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+E:\Магазин\Tasks\obj\Debug\Tasks.exe
+E:\Магазин\Tasks\obj\Debug\Tasks.pdb
+E:\Магазин\Tasks\bin\Debug\Tasks.exe.config
+E:\Магазин\Tasks\bin\Debug\Tasks.exe
+E:\Магазин\Tasks\bin\Debug\Tasks.pdb
+E:\Магазин\Tasks\bin\Debug\EntityFramework.dll
+E:\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.dll
+E:\Магазин\Tasks\bin\Debug\EntityFramework.xml
+E:\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.xml
+E:\Магазин\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+C:\Users\super\Desktop\Магазин\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\super\Desktop\Магазин\Tasks\bin\Debug\Tasks.exe
+C:\Users\super\Desktop\Магазин\Tasks\bin\Debug\Tasks.pdb
+C:\Users\super\Desktop\Магазин\Tasks\bin\Debug\EntityFramework.dll
+C:\Users\super\Desktop\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\super\Desktop\Магазин\Tasks\bin\Debug\EntityFramework.xml
+C:\Users\super\Desktop\Магазин\Tasks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.Form1.resources
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.Form2.resources
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.Inspect.resources
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.csproj.GenerateResource.cache
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.exe
+C:\Users\super\Desktop\Магазин\Tasks\obj\Debug\Tasks.pdb
